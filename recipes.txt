@@ -5,5 +5,3 @@ pasta
 
 chicken
 
-
-Thank you
